@@ -49,3 +49,13 @@ Port: 443
 <TODO: Add link Screencast on YouTube>
 
 
+<<<<<<< HEAD
+=======
+link to the trello board for the project (if you have just been added to the project and need access to the board, request to the Project Management).
+https://trello.com/b/vqoxq9oC/building-ml-application-with-flask
+
+# Continuous Integration
+
+Continuous integration is performed through the use of Github actions to run test and lint 
+[![Python application test with Github Actions](https://github.com/lorenzomad/ML-application-w-flask-webapp/actions/workflows/main.yml/badge.svg)](https://github.com/lorenzomad/ML-application-w-flask-webapp/actions/workflows/main.yml)
+>>>>>>> a7dd5490b1b7e3f99db27448256d21e42f127325
