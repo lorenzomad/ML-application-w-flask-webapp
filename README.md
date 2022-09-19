@@ -2,11 +2,19 @@
 
 <TODO: complete this with an overview of your project>
 
-## Project Plan
-<TODO: Project Plan
+## Continuous Integration
 
-* A link to a Trello board for the project
-* A link to a spreadsheet that includes the original and final project plan>
+Continuous integration is performed through the use of Github actions to run test and lint 
+[![Python application test with Github Actions](https://github.com/lorenzomad/ML-application-w-flask-webapp/actions/workflows/main.yml/badge.svg)](https://github.com/lorenzomad/ML-application-w-flask-webapp/actions/workflows/main.yml)
+
+# Project Plan
+
+link to the spreadsheet that includes the final project plan (the effort foreseen for each task is reflected in the amount of weeks for the associated activity)
+https://github.com/lorenzomad/ML-application-w-flask-webapp/blob/main/p_man/project_management.xlsx
+
+link to the trello board for the project (if you have just been added to the project and need access to the board, request to the Project Management).
+https://trello.com/b/vqoxq9oC/building-ml-application-with-flask
+
 
 ## Instructions
 
@@ -47,15 +55,3 @@ Port: 443
 ## Demo 
 
 <TODO: Add link Screencast on YouTube>
-
-
-<<<<<<< HEAD
-=======
-link to the trello board for the project (if you have just been added to the project and need access to the board, request to the Project Management).
-https://trello.com/b/vqoxq9oC/building-ml-application-with-flask
-
-# Continuous Integration
-
-Continuous integration is performed through the use of Github actions to run test and lint 
-[![Python application test with Github Actions](https://github.com/lorenzomad/ML-application-w-flask-webapp/actions/workflows/main.yml/badge.svg)](https://github.com/lorenzomad/ML-application-w-flask-webapp/actions/workflows/main.yml)
->>>>>>> a7dd5490b1b7e3f99db27448256d21e42f127325
