@@ -63,7 +63,7 @@ stages:
   condition: succeeded()
   jobs:
   - deployment: DeploymentJob
-    pool: Agent pool lorenzo
+    pool: agent_pool
     environment: $(environmentName)
     strategy:
       runOnce:
