@@ -35,6 +35,7 @@ The project is running in an azure webapp at the following link: https://lorenzo
 * Project running on Azure App Service
 <img width="611" alt="image" src="https://user-images.githubusercontent.com/106270843/192147393-a154bc7c-b22f-4472-a2c7-341f41cb11ea.png">
 <img width="896" alt="image" src="https://user-images.githubusercontent.com/106270843/192157823-f11b23e0-ddff-43e6-b121-c5bd8abce140.png">
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/106270843/192159707-ec368b0a-55a1-49c6-81c5-4b861c810caa.png">
 
 
 * Project cloned into Azure Cloud Shell
@@ -65,7 +66,8 @@ The project is running in an azure webapp at the following link: https://lorenzo
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/106270843/192143743-4db97822-af5f-4c75-937d-cd3716ba0dd1.png">
 
 *load test with locust 
-<img width="298" alt="image" src="https://user-images.githubusercontent.com/106270843/192151772-421c25f4-f819-4459-81f8-3231fca439d8.png">
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/106270843/192159184-33de35e8-c366-4de2-9dd7-981653b1a110.png">
+
 
 
 ## Enhancements
