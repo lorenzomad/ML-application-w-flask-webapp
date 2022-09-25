@@ -9,7 +9,7 @@ pool: agent_pool
 
 variables:
   
-  azureServiceConnectionId: 'service_conn'
+  azureServiceConnectionId: 'server_conn'
   webAppName: 'lorenzo-flask-webapp'
   environmentName: 'flask-ml-deploy'
   projectRoot: $(System.DefaultWorkingDirectory)
