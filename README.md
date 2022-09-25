@@ -42,18 +42,16 @@ https://trello.com/b/vqoxq9oC/building-ml-application-with-flask
 <img width="957" alt="image" src="https://user-images.githubusercontent.com/106270843/192108906-95c78231-61ea-40bb-8470-75c22fcfe234.png">
 
 
-* Successful prediction from deployed flask app in Azure Cloud Shell.  [Use this file as a template for the deployed prediction](https://github.com/udacity/nd082-Azure-Cloud-DevOps-Starter-Code/blob/master/C2-AgileDevelopmentwithAzure/project/starter_files/flask-sklearn/make_predict_azure_app.sh).
-The output should look similar to this:
+* Successful prediction from deployed flask app in Azure Cloud Shell.  
 
-<img width="552" alt="image" src="https://user-images.githubusercontent.com/106270843/192109017-1117d5ac-90d9-43a0-aeb5-b167c501f9a0.png">
+<img width="619" alt="image" src="https://user-images.githubusercontent.com/106270843/192143787-db71b00a-05ff-48b0-b3ef-dfdba189fdf1.png">
+
 
 
 
 * Output of streamed log files from deployed application
-<img width="927" alt="image" src="https://user-images.githubusercontent.com/106270843/192108949-1093772e-9302-4352-9566-e45ab36e00b3.png">
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/106270843/192143743-4db97822-af5f-4c75-937d-cd3716ba0dd1.png">
 
-
-> 
 
 ## Enhancements
 
