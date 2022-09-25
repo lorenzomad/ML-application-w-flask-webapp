@@ -1,6 +1,6 @@
 # Overview
 
-<TODO: complete this with an overview of your project>
+In this project, I built a Github repository from scratch and performed Continuous Integration and Continuous Delivery. I used Github Actions along with a Makefile, requirements.txt and application code to perform lint, test, and install cycle. Then, I integrated this project with Azure Pipelines to enable Continuous Delivery to Azure App Service.
 
 ## Continuous Integration
 
@@ -18,12 +18,22 @@ https://trello.com/b/vqoxq9oC/building-ml-application-with-flask
 
 ## Instructions
 
-<TODO:  
-* Architectural Diagram (Shows how key parts of the system work)>
+* Steps to run the project:
 
-<TODO:  Instructions for running the Python project.  How could a user with no context run this project without asking you for any help.  Include screenshots with explicit steps to create that work. Be sure to at least include the following screenshots:
+1. clone or fork this github repository 
+2. check that the webapp is running at the link: https://lorenzo-flask-webapp.azurewebsites.net/
+3. you can run the bash script make_predict_azure_app.sh to get a prediction
+ 
+* Architectural Diagram>
+here is an overview of the different parts of the project. 
+The continuous integration is done through github actions and the continuous delivery is enabled through the azure pipelines
+The project is running in an azure webapp at the following link: https://lorenzo-flask-webapp.azurewebsites.net/
+
+<img width="615" alt="image" src="https://user-images.githubusercontent.com/106270843/192147371-dedd7409-ff73-4cd6-a130-c441561f8ca2.png">
+
 
 * Project running on Azure App Service
+<img width="611" alt="image" src="https://user-images.githubusercontent.com/106270843/192147393-a154bc7c-b22f-4472-a2c7-341f41cb11ea.png">
 
 
 * Project cloned into Azure Cloud Shell
@@ -35,6 +45,8 @@ https://trello.com/b/vqoxq9oC/building-ml-application-with-flask
 
 
 * Output of a test run
+<img width="619" alt="image" src="https://user-images.githubusercontent.com/106270843/192143787-db71b00a-05ff-48b0-b3ef-dfdba189fdf1.png">
+
 
 * Successful deploy of the project in Azure Pipelines.  [Note the official documentation should be referred to and double checked as you setup CI/CD](https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/python-webapp?view=azure-devops).
 
@@ -47,15 +59,17 @@ https://trello.com/b/vqoxq9oC/building-ml-application-with-flask
 <img width="619" alt="image" src="https://user-images.githubusercontent.com/106270843/192143787-db71b00a-05ff-48b0-b3ef-dfdba189fdf1.png">
 
 
-
-
 * Output of streamed log files from deployed application
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/106270843/192143743-4db97822-af5f-4c75-937d-cd3716ba0dd1.png">
 
 
 ## Enhancements
 
-<TODO: A short description of how to improve the project in the future>
+enhancements for the future:
+  1. create a GUI where the webapp can allow the user to input the input values and it will output the prediction
+  2. extend the machine learning algorythm to provide predictions also for other areas. allow in the GUI the selection of the area for which the prediction should be run and load accordingly the correct model 
+  3. include more specific tests for the CI pipeline
+  4. make the webapp more appealing by improving the graphic
 
 ## Demo 
 
