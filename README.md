@@ -65,7 +65,8 @@ The project is running in an azure webapp at the following link: https://lorenzo
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/106270843/192143743-4db97822-af5f-4c75-937d-cd3716ba0dd1.png">
 
 *load test with locust 
-<img width="298" alt="image" src="https://user-images.githubusercontent.com/106270843/192151772-421c25f4-f819-4459-81f8-3231fca439d8.png">
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/106270843/192159184-33de35e8-c366-4de2-9dd7-981653b1a110.png">
+
 
 
 ## Enhancements
