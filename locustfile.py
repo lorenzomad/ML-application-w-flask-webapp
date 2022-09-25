@@ -1,9 +1,7 @@
-from locust import HttpUser, between, task
+from locust import HttpUser, task
 
-
-class WebsiteUser(HttpUser):
-    wait_time = between(5, 15)
-    
+class HelloWorldUser(HttpUser):
     @task
-    def index(self):
+    def hello_world(self):
         self.client.get("/")
+        self.client.post("/predict")
