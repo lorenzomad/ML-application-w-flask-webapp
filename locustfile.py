@@ -4,4 +4,4 @@ class WebsiteUser(HttpUser):
 
     @task
     def home_page(self):
-        self.client.get("/")
+        self.client.post("/predict")
