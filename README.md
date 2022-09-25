@@ -48,7 +48,7 @@ The project is running in an azure webapp at the following link: https://lorenzo
 <img width="619" alt="image" src="https://user-images.githubusercontent.com/106270843/192143787-db71b00a-05ff-48b0-b3ef-dfdba189fdf1.png">
 
 
-* Successful deploy of the project in Azure Pipelines.  [Note the official documentation should be referred to and double checked as you setup CI/CD](https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/python-webapp?view=azure-devops).
+* Successful deploy of the project in Azure Pipelines.  
 
 * Running Azure App Service from Azure Pipelines automatic deployment
 <img width="957" alt="image" src="https://user-images.githubusercontent.com/106270843/192108906-95c78231-61ea-40bb-8470-75c22fcfe234.png">
