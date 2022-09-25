@@ -34,6 +34,7 @@ The project is running in an azure webapp at the following link: https://lorenzo
 
 * Project running on Azure App Service
 <img width="611" alt="image" src="https://user-images.githubusercontent.com/106270843/192147393-a154bc7c-b22f-4472-a2c7-341f41cb11ea.png">
+<img width="896" alt="image" src="https://user-images.githubusercontent.com/106270843/192157823-f11b23e0-ddff-43e6-b121-c5bd8abce140.png">
 
 
 * Project cloned into Azure Cloud Shell
@@ -49,6 +50,7 @@ The project is running in an azure webapp at the following link: https://lorenzo
 
 
 * Successful deploy of the project in Azure Pipelines.  
+<img width="896" alt="image" src="https://user-images.githubusercontent.com/106270843/192157801-96ddc270-0c01-467c-be4a-1e825ad05963.png">
 
 * Running Azure App Service from Azure Pipelines automatic deployment
 <img width="957" alt="image" src="https://user-images.githubusercontent.com/106270843/192108906-95c78231-61ea-40bb-8470-75c22fcfe234.png">
