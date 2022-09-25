@@ -73,4 +73,5 @@ enhancements for the future:
 
 ## Demo 
 
-https://youtu.be/2FWR_wOgaS0
+link to the video showcasing the project
+https://youtu.be/1L7u0wMFY_A
