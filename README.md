@@ -1,6 +1,7 @@
 # Overview
 
 In this project, I created a system for the Continuous Integration and Continuous Delivery of a flask webapp that implements a machine learning model to predict the housing cost in the Boston area. 
+
 I used Github Actions along with a Makefile, requirements.txt and application code to perform lint, test, and install cycle. Then, I integrated this project with Azure Pipelines to enable Continuous Delivery to Azure App Service.
 
 ## Continuous Integration
